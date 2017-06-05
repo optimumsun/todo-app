@@ -7,5 +7,3 @@ applications:
   name: todo-app-optimumsun
   host: todo-app-optimumsun
   disk_quota: 1024M
-  services:
-  - availability-monitoring-auto
